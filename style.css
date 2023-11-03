@@ -161,6 +161,10 @@
     margin-inline: 10px;
 }
 
+.social-btn:hover{
+    background-color: rgb(234, 88, 3);
+}
+
 .social{
     display: flex;
 }
